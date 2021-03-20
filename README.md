@@ -2,11 +2,11 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **NAME**
+Submitted by: **Amena Foshanji**
 
-Time spent: **#** hours spent in total
+Time spent: **4** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://glitch.com/edit/#!/ubiquitous-future-soil?path=script.js%3A63%3A12)
 
 ## Required Functionality
 
@@ -39,27 +39,29 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](           )
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/40921232/111859028-23542380-8914-11eb-9287-500b8c02fba8.gif)
+
 
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+[]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+[The sources for this project were created in such a way that I did not face any big challenges during working on this project to become stuck in some part of the coding. however, the understanding of each piece of code and the job that each function going to perform somehow was challenging for me.  in the meantime working on the glitch platform was a new experience for me and I was able to explore it and finds out how the platform is working and processing the code. I really enjoy working on the platform that everything made easy and clear to be used. since time management is working on a project is the most important factor that a programmer should consider I tried to proceed with the work in the time that is supposed to be finished.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[I have some question about the CSS elements, as in this project we used different files to structure and style the webpage, I meant we did not code the CSS style in the HTML code, therefore I want to know what are the differences between inline CSS coding and in a separate file for the small projects?
+As for the backend we used the JavaScript programming language, however, I would like to know the superiority of JavaScript to the other programming languages that we can use for backend like PHP ...etc . ?]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[If I had some more time to work on this project, first of all, I would work on the page and methods style to make the page more fascinating and fun. I  may add more elements to make it more complicated and entertaining like speeding up the methods calculation and the pattern. And also I will add more than one step. for those who win the first step allows them to go to the next step and for those who lost in a part gives them chance to start not from the first move but two or three moves prior they lost the game not going back all from the first move. ]
 
 
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Amena Foshanji]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
